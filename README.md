@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Welcome!%20&fontSize=90&fontColor=ffffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=It's%20Lee!&descAlignY=51&descAlign=62)
 
 <h1 align="center"> 👩🏻‍💻 About Me </h1> <br>
 
