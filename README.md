@@ -10,9 +10,9 @@
 
 <h2 align="center">Contact Me!📥</h2><br>
 <div align="center">
-    <img src="https://img.shields.io/badge/dongju101@dankook.ac.kr-white?style=flat&logo=Gmail" /></a>
+    <img src="https://img.shields.io/badge/dongju101@dankook.ac.kr-white?style=for-the-badge&logo=Gmail" /></a>
     <a href="https://velog.io/@dongju101">
-        <img src="https://img.shields.io/badge/Lee's%20velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dongju101"/></a>  
+        <img src="https://img.shields.io/badge/Lee's%20velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@dongju101"/></a>  
     <br><br><br>
    
 <h2 align="center">📚 Tech Stack 📚</h2> 
