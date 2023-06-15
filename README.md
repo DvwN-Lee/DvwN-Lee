@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Welcome!%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Welcome!%20&fontSize=90&fontColor=ffffffff)
 
 <h1 align="center"> 👩🏻‍💻 About Me </h1> <br>
 
