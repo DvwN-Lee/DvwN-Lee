@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=It's%20Lee!&descAlignY=51&descAlign=62)
 
+<br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Coderrr&layout=compact"><br><br>
+
+
 <h1 align="center"> 👩🏻‍💻 About Me </h1> <br>
 
 * Welcome to my GitHub. 🙌
@@ -27,5 +30,4 @@
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" /></a></a> 
 </div>
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Coderrr&layout=compact"><br><br>
+
