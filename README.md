@@ -26,3 +26,5 @@
     <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" /></a></a> 
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Coderrr&layout=compact"><br><br>
