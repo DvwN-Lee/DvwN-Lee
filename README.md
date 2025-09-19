@@ -70,10 +70,8 @@
   <p align="center">
     <!-- Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=DvwN-Lee&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Lee-DvwN&show_icons=true&theme=radical" />
     <!-- Top Langs -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvwN-Lee&layout=compact&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-DvwN&layout=compact&theme=radical" />
   </p>
 </div>
 
