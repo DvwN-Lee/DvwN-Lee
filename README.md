@@ -68,8 +68,12 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">📊 My GitHub Stats</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DvwN-Lee&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvwN-Lee&layout=compact&theme=radical" alt="Top Languages"/>
+    <!-- Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=DvwN-Lee&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lee-DvwN&show_icons=true&theme=radical" />
+    <!-- Top Langs -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvwN-Lee&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-DvwN&layout=compact&theme=radical" />
   </p>
 </div>
 
