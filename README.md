@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DvwN-Lee">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Lee%20DvwN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Infra%20&%20DevOps%20Engineer&descAlignY=51&descAlign=62" alt="Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DvwN%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Infra%20&%20DevOps%20Engineer&descAlignY=51&descAlign=62" alt="Header"/>
   </a>
 </div>
 
