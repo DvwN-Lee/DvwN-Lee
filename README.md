@@ -1,37 +1,79 @@
 <div align="center">
   <a href="https://github.com/DvwN-Lee">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DvwN%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Infra%20&%20DevOps%20Engineer&descAlignY=51&descAlign=62" alt="Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DvwN%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cloud%20Platform%20Engineer%20%7C%20DevOps%20Specialist&descAlignY=51&descAlign=62" alt="Header"/>
   </a>
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">🚀 About Me</h2>
+  <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">Introduction</h2>
 </div>
 
 <p align="center">
-  I'm a Computer Engineering student at Dankook University with a deep passion for building scalable and reliable systems.
+  단국대학교 컴퓨터공학과에 재학 중이며, 확장 가능하고 신뢰성 있는 클라우드 네이티브 시스템 구축에 관심을 가지고 있습니다.
   <br />
-  My main interests lie in <b>Infrastructure Development</b> and <b>DevOps Culture</b>, focusing on automating and optimizing the software development lifecycle.
+  저의 관심 분야는 <b>Kubernetes Orchestration</b>, <b>Infrastructure as Code</b>, <b>DevOps Automation</b>입니다.
   <br />
-  I enjoy architecting cloud-native solutions and streamlining development pipelines.
+  포괄적인 관측 가능성과 보안을 갖춘 마이크로서비스 플랫폼 아키텍처 설계를 지향합니다.
 </p>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">🛠️ My Tech Stack</h2>
+  <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">🛠️ 기술 스택</h2>
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <h4>Cloud Native & DevOps</h4>
+      <h4>Container & Orchestration</h4>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Skaffold-2AA4E1?logo=Skaffold&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Helm-0F1689?logo=Helm&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Kustomize-326CE5?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMyAxMnYxMGwxMCAwdi0xMGw5LTEweiIvPjwvc3ZnPg==&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Skaffold-2AA4E1?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMyAxMnYxMGwxMCAwdi0xMGw5LTEweiIvPjwvc3ZnPg==&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <h4>CI/CD & GitOps</h4>
+    </td>
+    <td>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?logo=Argo&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/GitOps-FC6D26?logo=git&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <h4>Infrastructure as Code</h4>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=Terraform&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <h4>Service Mesh & Security</h4>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Istio-466BB0?logo=Istio&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Kiali-466BB0?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMyAxMnYxMGwxMCAwdi0xMGw5LTEweiIvPjwvc3ZnPg==&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Trivy-1904DA?logo=Aqua%20Security&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/mTLS-009639?logo=Let's%20Encrypt&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <h4>Monitoring & Observability</h4>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Loki-F46800?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMyAxMnYxMGwxMCAwdi0xMGw5LTEweiIvPjwvc3ZnPg==&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/AlertManager-E6522C?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMyAxMnYxMGwxMCAwdi0xMGw5LTEweiIvPjwvc3ZnPg==&logoColor=white&style=for-the-badge"/>
     </td>
   </tr>
   <tr>
@@ -41,6 +83,7 @@
     <td>
       <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/YAML-CB171E?logo=YAML&logoColor=white&style=for-the-badge"/>
     </td>
   </tr>
   <tr>
@@ -53,7 +96,17 @@
       <img src="https://img.shields.io/badge/Uvicorn-27A491?logo=Uvicorn&logoColor=white&style=for-the-badge"/>
     </td>
   </tr>
-    <tr>
+  <tr>
+    <td align="center">
+      <h4>Database & Cache</h4>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=PostgreSQL&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <h4>Frontend</h4>
     </td>
@@ -66,23 +119,26 @@
 </table>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">📊 My GitHub Stats</h2>
+  <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">📊 GitHub 통계</h2>
   <p align="center">
-    <!-- Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=DvwN-Lee&show_icons=true&theme=radical" />
-    <!-- Top Langs -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvwN-Lee&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DvwN-Lee&show_icons=true&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvwN-Lee&layout=compact&theme=radical&hide_border=true" />
   </p>
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">📬 Contact Me</h2>
+  <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">📬 연락처</h2>
   <p>
-    <a href="mailto:dongju101@dankook.ac.kr">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <a href="mailto:dongju101101@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
-    <a href="https://velog.io/@dongju101">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white"/>
+    <a href="https://github.com/DvwN-Lee">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
     </a>
   </p>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </div>
