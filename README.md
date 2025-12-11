@@ -119,14 +119,6 @@
 </table>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">📊 GitHub 통계</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DvwN-Lee&show_icons=true&theme=radical&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvwN-Lee&layout=compact&theme=radical&hide_border=true" />
-  </p>
-</div>
-
-<div align="center">
   <h2 style="border-bottom: 1px solid #21262d; padding-bottom: 5px;">📬 연락처</h2>
   <p>
     <a href="mailto:dongju101101@gmail.com">
