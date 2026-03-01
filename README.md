@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  단국대학교 컴퓨터공학과에 재학 중이며, 확장 가능하고 신뢰성 있는 클라우드 네이티브 시스템 구축에 관심을 가지고 있습니다.
+  단국대학교 컴퓨터공학과를 졸업하였으며, 확장 가능하고 신뢰성 있는 클라우드 네이티브 시스템 구축에 관심을 가지고 있습니다.
   <br />
   저의 관심 분야는 <b>Kubernetes Orchestration</b>, <b>Infrastructure as Code</b>, <b>DevOps Automation</b>입니다.
   <br />
