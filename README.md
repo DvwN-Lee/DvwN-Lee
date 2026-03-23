@@ -5,11 +5,6 @@
   </a>
 </div>
 
-<!--Profile Views-->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DvwN-Lee&label=Profile%20views&color=6B4226&style=for-the-badge&logo=star" alt="profile views"/>
-</p>
-
 
 
 <!--Introduction-->
