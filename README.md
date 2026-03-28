@@ -11,7 +11,7 @@
 <h2 align="center">INTRODUCTION</h2>
 
 <p align="center">
-  단국대학교 컴퓨터공학과를 졸업했으며, <b>LLM 기반 AI Agent 시스템 설계 및 구축</b>에 집중하고 있습니다.
+  <b>LLM 기반 AI Agent 시스템 설계 및 구축</b>에 집중하고 있습니다.
   <br />
   <b>MCP Server</b> 개발, <b>LangGraph</b> 기반 Agent 오케스트레이션,
   <br />
