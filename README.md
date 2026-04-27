@@ -1,7 +1,7 @@
 <!--Typing SVG-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7EB8DA&center=true&vCenter=true&width=640&lines=DvwN+Lee;AI+Agent+Engineer+%7C+Cloud+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7EB8DA&center=true&vCenter=true&width=640&lines=DvwN+Lee;AI+Agent+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,15 +11,10 @@
 <h2 align="center">INTRODUCTION</h2>
 
 <p align="center">
-  <b>LLM 기반 AI Agent 시스템 설계 및 구축</b>에 집중하고 있습니다.
+  <b>AI Agent 시스템 설계 및 구축</b>에 집중하고 있습니다.
   <br />
-  <b>MCP Server</b> 개발, <b>LangGraph</b> 기반 Agent 오케스트레이션,
+  <b>MCP Server</b> 개발, <b>Agent 오케스트레이션</b> 시스템을 직접 설계하고 운영합니다.
   <br />
-  <b>LLM Serving Observability</b> 시스템을 직접 설계하고 운영합니다.
-  <br /><br />
-  Kubernetes/Terraform 기반 <b>Cloud Native 인프라</b> 경험을 바탕으로
-  <br />
-  AI Agent를 프로덕션에 배포하고 관측하는 엔지니어를 지향합니다.
 </p>
 
 
