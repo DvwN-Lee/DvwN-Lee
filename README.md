@@ -17,43 +17,6 @@
   <br />
 </p>
 
-
-
-<!--Tech Stack-->
-<h2 align="center">TECH STACK</h2>
-
-<h3 align="center">AI AGENT & LLM</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-0D1B2A?logo=langchain&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCP-0D1B2A?logo=anthropic&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gemini-0D1B2A?logo=googlegemini&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangFuse-0D1B2A?logoColor=7EB8DA&style=for-the-badge"/>
-</p>
-
-<h3 align="center">LANGUAGES & BACKEND</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1B2A?logo=Python&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D1B2A?logo=TypeScript&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Go-0D1B2A?logo=Go&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-0D1B2A?logo=FastAPI&logoColor=7EB8DA&style=for-the-badge"/>
-</p>
-
-<h3 align="center">CLOUD & INFRASTRUCTURE</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-0D1B2A?logo=Kubernetes&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-0D1B2A?logo=Docker&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Terraform-0D1B2A?logo=Terraform&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ArgoCD-0D1B2A?logo=Argo&logoColor=7EB8DA&style=for-the-badge"/>
-</p>
-
-<h3 align="center">MONITORING & OBSERVABILITY</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-0D1B2A?logo=Prometheus&logoColor=7EB8DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grafana-0D1B2A?logo=Grafana&logoColor=7EB8DA&style=for-the-badge"/>
-</p>
-
-
-
 <!--GitHub Stats Table-->
 <h2 align="center">GITHUB STATS</h2>
 
