@@ -17,58 +17,6 @@
   <br />
 </p>
 
-<!--GitHub Stats Table-->
-<h2 align="center">GITHUB STATS</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>GITHUB STATS</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DvwN-Lee">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DvwN-Lee&count_private=true&show_icons=true&bg_color=0,0D1B2A,1B3A5C&title_color=7EB8DA&text_color=ffffff&icon_color=A3D4E8&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>STREAK STATS</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DvwN-Lee">
-          <img align="center" src="https://streak-stats.demolab.com/?user=DvwN-Lee&background=0,0D1B2A,1B3A5C&fire=A3D4E8&ring=A3D4E8&sideNums=ffffff&sideLabels=ffffff&dates=5C9DC5&currStreakNum=ffffff&currStreakLabel=7EB8DA&hide_border=true" alt="Streak Stats"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>FEATURED PROJECT</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DvwN-Lee/fAInancial-agent">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=DvwN-Lee&repo=fAInancial-agent&bg_color=0,0D1B2A,1B3A5C&title_color=7EB8DA&text_color=ffffff&icon_color=A3D4E8&hide_border=true&show_owner=true" alt="fAInancial-agent"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>TOP LANGUAGES</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DvwN-Lee">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvwN-Lee&layout=compact&langs_count=7&bg_color=0,0D1B2A,1B3A5C&title_color=7EB8DA&text_color=ffffff&hide_border=true" alt="Top Languages"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-
-<!--Contribution Graph-->
-<h2 align="center">CONTRIBUTION GRAPH</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DvwN-Lee&bg_color=0D1B2A&color=7EB8DA&line=7EB8DA&point=A3D4E8&area=true&area_color=1B3A5C&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-</div>
-
-
-
 <!--Contact-->
 <h2 align="center">CONTACT</h2>
 <p align="center">
